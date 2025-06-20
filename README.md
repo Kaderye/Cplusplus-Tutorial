@@ -1,1 +1,1 @@
-# C++ Tutorial
+C++ is used in fields such as system software, game development, embedded systems, scientific computing and high-performance applications. The C++ standard library provides a range of coding utilities and functions, making it easy to develop complex software systems.
